@@ -1,0 +1,14 @@
+{
+    "fName":"Luis",
+    "lName":"Figuera",
+    "Address":"16th Floor",
+    "City":"CABA",
+    "State":"BsAs",
+    "Zip":"11CN",
+    "Tlf":"388-197-6226",
+    "Ssn":"57229",
+    "User":"Luisito2189",
+    "Pass":"Edu2102",
+    "confirmPAss":"Edu2102",
+    "loginOk":"Your account was created successfully. You are now logged in."
+}
